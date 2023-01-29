@@ -34,4 +34,6 @@ class Discriminator(nn.Module):
 ```
 
 ## Result
+### Epoch 50
+<img width="300" src="https://user-images.githubusercontent.com/63842546/215310037-62cccbf9-5450-46c0-a7d5-dd7629bfe243.png"/>
 
